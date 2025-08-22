@@ -26,7 +26,7 @@ Built using Python, Streamlit, and MySQL.
 
  1. Clone the Project
 bash
-git clone https://github.com/your-username/gym-management-system.git
+git clone https://github.com/your-username/gym-management-project.git
 cd gym-management-system
 
 2.Open vs code:
